@@ -5,13 +5,11 @@ tests/jit-paging/test-jit
 *.map
 build/
 closure-compiler/
-images/
 *.bak
 *.orig
 *.wasm
 *.o
 *.bin
-*.img
 *.fixture
 *.fuse_hidden*
 *.DS_Store
